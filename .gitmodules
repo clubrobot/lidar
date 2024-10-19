@@ -1,0 +1,6 @@
+[submodule "lib/STM32FreeRTOS"]
+	path = lib/STM32FreeRTOS
+	url = https://github.com/stm32duino/STM32FreeRTOS
+[submodule "lib/VL53L5CX"]
+	path = lib/VL53L5CX
+	url = https://github.com/stm32duino/VL53L5CX
